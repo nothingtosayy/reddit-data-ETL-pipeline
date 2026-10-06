@@ -4,3 +4,5 @@ psycopg2-binary==2.9.13
 boto3==1.43.94
 praw==8.0.3
 apify-client
+pytz==2026.4
+dbt-databricks=1.12.6

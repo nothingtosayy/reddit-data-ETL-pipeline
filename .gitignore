@@ -12,3 +12,7 @@ wheels/
 # Settings and configuration files
 .env
 *.pem
+
+# Logs
+logs/
+*.log

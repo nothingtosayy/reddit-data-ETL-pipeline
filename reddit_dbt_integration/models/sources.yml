@@ -1,0 +1,8 @@
+sources:
+  - name: reddit-source
+    database: reddit_users_from_fivetran
+    schema: postgres_public
+    config:
+      enabled: true
+    tables:
+      - name: users  # enabled
